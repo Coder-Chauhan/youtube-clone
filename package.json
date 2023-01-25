@@ -1,7 +1,7 @@
 {
   "name": "youtube_clone",
   "version": "0.1.0",
-  "homepage": "https://Coder-Chauhan.github.io/youtube_clone",
+  "homepage": "https://Coder-Chauhan.github.io/youtube-clone",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.10.0",
